@@ -44,3 +44,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Arkanoid
+    uniqueID: 691686443
+    locked: 0
