@@ -1386,7 +1386,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4284591273984800262, guid: 4b45100726786e443894ee46189c859c, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 335.1954
+      value: 283.7799
       objectReference: {fileID: 0}
     - target: {fileID: 4284591273984800262, guid: 4b45100726786e443894ee46189c859c, type: 3}
       propertyPath: m_SizeDelta.y
@@ -1446,11 +1446,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4284591273984800263, guid: 4b45100726786e443894ee46189c859c, type: 3}
       propertyPath: m_FontData.m_MinSize
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4284591273984800263, guid: 4b45100726786e443894ee46189c859c, type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 30
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 4284591273984800265, guid: 4b45100726786e443894ee46189c859c, type: 3}
       propertyPath: m_Name
